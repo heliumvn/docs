@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Helium Documentation',
   tagline: 'Documentation for the Helium Network',
-  url: 'https://docs.helium.com',
+  url: 'https://docs.helium.vn',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon/favicon.ico',
@@ -59,7 +59,7 @@ module.exports = {
           activeBaseRegex: `api`,
         },
         {
-          href: 'https://github.com/helium',
+          href: 'https://github.com/heliumvn',
           position: 'right',
           label: 'Github',
         },
@@ -70,12 +70,12 @@ module.exports = {
         },
 
         {
-          href: 'https://explorer.helium.com',
+          href: 'https://explorer.helium.vn',
           label: 'Explorer',
           position: 'right',
         },
         {
-          href: 'https://network.helium.com/coverage',
+          href: 'https://explorer.helium.vn',
           label: 'Coverage Map',
           position: 'right',
         },
