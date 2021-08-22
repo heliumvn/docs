@@ -9,7 +9,7 @@ module.exports = {
   projectName: 'docs', // Usually your repo name.
   themeConfig: {
     googleAnalytics: {
-      trackingID: 'UA-52432858-10',
+      trackingID: 'G-9X8VHL0PM2',
     },
     algolia: {
       apiKey: 'd5ff5c42607f0141934032162dab2cc2',
